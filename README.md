@@ -49,7 +49,7 @@ This notebook performs a detailed Exploratory Data Analysis (EDA) on the Titanic
 
 ---
 
-## Outcome / Impact  
+## Outcome 
 - Gender and passenger class were found to be strong predictors of survival, with women and first-class passengers having the highest survival rates  
 - Embarkation port and fare also showed moderate influence on survival outcomes  
 - Provided a clean and structured dataset with visual insights for building predictive models  
