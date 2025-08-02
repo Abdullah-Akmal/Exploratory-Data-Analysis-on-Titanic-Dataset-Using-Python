@@ -1,7 +1,7 @@
 # Exploratory Data Analysis on Titanic Dataset Using Python
 
 ## Problem Statement  
-The Titanic dataset, provided by Kaggle, offers historical data on passengers aboard the Titanic. This project aims to analyze the factors that contributed to passenger survival during the disaster. By exploring attributes such as age, gender, passenger class, and embarkation port, the analysis uncovers key patterns that can inform future predictive modeling.
+Understanding the factors that influenced survival during the Titanic disaster is essential for building accurate predictive models and drawing historical insights. However, the raw passenger data contains a mix of numerical and categorical variables that require thorough exploration and preprocessing. This project uses the Titanic dataset from Kaggle to perform detailed exploratory data analysis (EDA), aiming to identify key attributes—such as gender, passenger class, age, fare, and embarkation port—that significantly impacted survival outcomes. The goal is to uncover patterns and correlations that will inform future machine learning models and support data-driven storytelling.
 
 ---
 
